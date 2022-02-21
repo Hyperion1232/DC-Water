@@ -23,6 +23,9 @@
  23 </head>
  24 
  25 <body>
+    <link rel="stylesheet" href="ReportProblem.css">
+    <h1> Report an Emergency </h1>
+    
  26         <div class = "topnav">
  27                 <ul>
  28 
