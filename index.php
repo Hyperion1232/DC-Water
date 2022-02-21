@@ -28,7 +28,7 @@
  28 
  29                 </ul>
  30         </div>
-    <?
+    <?php
     echo "Hello";
     ?>
  31 </body>
