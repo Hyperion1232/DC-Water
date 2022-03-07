@@ -31,8 +31,5 @@
   
                   </ul>
           </div>
-    <?php
-    echo "Helloooo";
-    ?>
   </body>
   </html>
